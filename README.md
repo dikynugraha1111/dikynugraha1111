@@ -1,4 +1,4 @@
-# Hi there, I'm dikynugraha1111 - Just Call me [Diky][instagram] 👋
+# Hi there, I'm dikynugraha1111 - Just Call me [Diky][instagram] <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="38px">
 
 ### I'm a Developer!!
 
