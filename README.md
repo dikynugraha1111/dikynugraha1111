@@ -1,4 +1,4 @@
-# Hi there, I'm dikynugraha1111 - Just Call me [Diky][instagram] <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="38px">
+# Hi there, I'm dikynugraha1111 - Just Call me [Diky][instagram] <img alt="Hello" src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="33px">
 
 ### I'm a Developer!!
 
@@ -17,11 +17,6 @@
 <br />
 
 ---
-
-<!--[![Image](https://img.shields.io/static/v1?label=Instagram&message=Follow&color=blueviolet)](https://codestackr.com)-->
-<!--[![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://codestackr.com)-->
-<!--[![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=codeSTACKr)-->
-
 ### Languages and Tools:
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
@@ -57,14 +52,8 @@
 [![Diky Nugraha Lang](https://github-readme-stats.vercel.app/api/top-langs/?username=dikynugraha1111&langs_count=8&hide_border=true&theme=algolia)](https://github.com/dikynugraha1111)
 
 
-[website]: https://codeSTACKr.com
+
 [github]: https://github.com/dikynugraha1111
 [instagram]: https://www.instagram.com/dikydifiera/
-[course]: http://vsCodeHero.com
-[twitter]: https://twitter.com/codeSTACKr
 [youtube]: https://www.youtube.com/channel/UCXEMprt8qobSSFJcN02uJGA
 [linkedin]: https://www.linkedin.com/in/diky-nugraha-difiera-92b45b1a7/
-[webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
-[jsplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B
-[cssplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALSdvZuEh6gqQdmDoDIoqz4
-[reactplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAK4TdffpxKY3QGyHCpxFcQ0
