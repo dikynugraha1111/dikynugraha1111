@@ -46,7 +46,7 @@
 <br />
 
 ---
-[![Diky Nugraha Stats](https://github-readme-stats.vercel.app/api?username=dikynugraha1111&show_icons=true&count_private=true&hide_border=true&theme=algolia)](https://github.com/dikynugraha1111/)
+[![Diky Nugraha Stats](https://github-readme-stats.vercel.app/api?username=dikynugraha1111&show_icons=true&count_private=true&hide_border=true&theme=algolia&include_all_commits=true)](https://github.com/dikynugraha1111/)
 
 [![Diky Nugraha Lang](https://github-readme-stats.vercel.app/api/top-langs/?username=dikynugraha1111&langs_count=8&hide_border=true&theme=algolia)](https://github.com/dikynugraha1111)
 
