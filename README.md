@@ -62,13 +62,8 @@
   </tr>
 </table>
 
-<table style="border :0px">
-  <tr>
-    <td valign="top" width="100%">
-      <img src="https://github-profile-trophy.vercel.app/?username=dikynugraha1111" align="left" style="width: 100%" />
-    </td>
-  </tr>
-</table>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dikynugraha1111&theme=algolia" alt="dikynugraha1111" /></a> </p>
+
 
 
 [github]: https://github.com/dikynugraha1111
