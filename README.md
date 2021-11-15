@@ -65,6 +65,7 @@
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dikynugraha1111&row=1&theme=algolia" alt="dikynugraha1111" /></a> </p>
 
 
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=dikynugraha1111&theme=tokyonight_duo&hide_border=true&date_format=j%2Fn%5B%2FY%5D" alt="dikynugraha1111" /></p>
 
 [github]: https://github.com/dikynugraha1111
 [instagram]: https://www.instagram.com/dikydifiera/
