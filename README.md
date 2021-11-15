@@ -62,7 +62,7 @@
   </tr>
 </table>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dikynugraha1111&theme=algolia" alt="dikynugraha1111" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dikynugraha1111&row=1&theme=algolia" alt="dikynugraha1111" /></a> </p>
 
 
 
