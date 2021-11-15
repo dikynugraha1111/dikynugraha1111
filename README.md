@@ -62,7 +62,14 @@
   </tr>
 </table>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=dikynugraha1111)]
+<table style="border :0px">
+  <tr>
+    <td valign="top" width="100%">
+      <img src="https://github-profile-trophy.vercel.app/?username=dikynugraha1111" align="left" style="width: 100%" />
+    </td>
+  </tr>
+</table>
+
 
 [github]: https://github.com/dikynugraha1111
 [instagram]: https://www.instagram.com/dikydifiera/
