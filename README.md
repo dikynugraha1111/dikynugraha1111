@@ -71,3 +71,6 @@
 [instagram]: https://www.instagram.com/dikydifiera/
 [youtube]: https://www.youtube.com/channel/UCXEMprt8qobSSFJcN02uJGA
 [linkedin]: https://www.linkedin.com/in/diky-nugraha-difiera-92b45b1a7/
+
+
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=dikynugraha1111&hide_border=true&bg_color=050f2c&line=00aeff&point=ffffff&color=ffffff&area_color=ffffff)](https://github.com/ashutosh00710/github-readme-activity-graph)
