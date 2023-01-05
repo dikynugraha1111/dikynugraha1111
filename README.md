@@ -3,7 +3,6 @@
 ### I'm a Developer!!
 
 - 🌱 I’m currently learning Flutter
-- 🥅 2021 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I'm single :smirk:
 
 ---
