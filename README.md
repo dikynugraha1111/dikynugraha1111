@@ -49,17 +49,7 @@
 [![Diky Nugraha Lang](https://github-readme-stats.vercel.app/api/top-langs/?username=dikynugraha1111&langs_count=8&hide_border=true&theme=algolia)](https://github.com/dikynugraha1111)
 --->
 
-<table style="border: 0px">
-  <tr>
-    <td valign="top" width="36%">
-       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dikynugraha1111&langs_count=5&hide_border=true&theme=algolia&hide=css,scss,html,makefile,JavaScript,C,Jupyter Notebook,Kotlin,Cmake,Hack,Objective-C,C++,Swift" align="left" style="width: 100%" />
-</td>
-    <td valign="top" width="64%">
-  <img src="https://github-readme-stats.vercel.app/api?username=dikynugraha1111&show_icons=true&count_private=true&hide_border=true&theme=algolia&include_all_commits=true" align="left" style="width: 100%" />
-     
-</td>
-  </tr>
-</table>
+
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dikynugraha1111&row=1&theme=algolia&no-frame=true" alt="dikynugraha1111" /></a> </p>
 
